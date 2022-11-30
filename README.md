@@ -1,6 +1,6 @@
-# Custom Catalogue Applications
+# Custom Catalog Applications
 
-Your custom catalogue has been built and is ready to deploy to DKP. Set the relevant namespace for either workspace or project, depending on the scope you chose, as an environmental variable:
+Your custom catalog has been built and is ready to deploy to DKP. Set the relevant namespace for either workspace or project, depending on the scope you chose, as an environmental variable:
 
 ```bash
 export NAMESPACE=[your_namespace]
